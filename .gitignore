@@ -39,3 +39,4 @@ replay_pid*
 /custom-exception/target/
 /list-iteration/target/
 /threadLocal/target/
+/lambda-expressions/target/

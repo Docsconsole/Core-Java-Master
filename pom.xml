@@ -29,6 +29,7 @@
         <module>custom-exception</module>
         <module>threadLocal</module>
         <module>list-iteration</module>
+        <module>lambda-expressions</module>
     </modules>
 
     <dependencies>
