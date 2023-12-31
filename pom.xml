@@ -23,6 +23,7 @@
         <module>stream-filter</module>
         <module>oops-concepts</module>
         <module>constructors</module>
+        <module>access-modifiers</module>
     </modules>
 
     <dependencies>
