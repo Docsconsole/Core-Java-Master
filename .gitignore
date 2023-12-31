@@ -37,3 +37,5 @@ replay_pid*
 /equals-hashCode/target/
 /stream-forEach/target/
 /custom-exception/target/
+/list-iteration/target/
+/threadLocal/target/

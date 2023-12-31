@@ -27,6 +27,8 @@
         <module>stream-forEach</module>
         <module>equals-hashCode</module>
         <module>custom-exception</module>
+        <module>threadLocal</module>
+        <module>list-iteration</module>
     </modules>
 
     <dependencies>
