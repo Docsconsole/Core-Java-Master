@@ -34,3 +34,5 @@ replay_pid*
 /stream-filter/stream-filter.iml
 /constructors/target/
 /access-modifiers/target/
+/equals-hashCode/target/
+/stream-forEach/target/

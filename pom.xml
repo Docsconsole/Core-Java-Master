@@ -24,6 +24,8 @@
         <module>oops-concepts</module>
         <module>constructors</module>
         <module>access-modifiers</module>
+        <module>stream-forEach</module>
+        <module>equals-hashCode</module>
     </modules>
 
     <dependencies>
