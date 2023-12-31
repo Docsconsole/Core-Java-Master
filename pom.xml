@@ -26,6 +26,7 @@
         <module>access-modifiers</module>
         <module>stream-forEach</module>
         <module>equals-hashCode</module>
+        <module>custom-exception</module>
     </modules>
 
     <dependencies>
