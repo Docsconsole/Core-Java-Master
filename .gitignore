@@ -24,8 +24,11 @@ hs_err_pid*
 replay_pid*
 /.idea/
 /Core-Java-Master.iml
-/JavaOOPSConcepts/JavaOOPSConcepts.iml
-/JavaOOPSConcepts/target/
+/oops-concepts/JavaOOPSConcepts.iml
+/oops-concepts/target/
 /array-list-conversion/target/
-/JavaOOPSConcepts/target/
+/oops-concepts/target/
 /stream-filter/target/
+/array-list-conversion/array-list-conversion.iml
+/oops-concepts/oops-concepts.iml
+/stream-filter/stream-filter.iml
