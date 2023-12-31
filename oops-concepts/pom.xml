@@ -9,7 +9,7 @@
 		<version>1.0</version>
 	</parent>
 
-	<artifactId>JavaOOPSConcepts</artifactId>
+	<artifactId>oops-concepts</artifactId>
 
 	<properties>
 		<!--<maven.compiler.source>17</maven.compiler.source>

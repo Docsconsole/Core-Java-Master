@@ -22,6 +22,7 @@
         <module>array-list-conversion</module>
         <module>stream-filter</module>
         <module>oops-concepts</module>
+        <module>constructors</module>
     </modules>
 
     <dependencies>
