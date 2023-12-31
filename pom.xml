@@ -21,6 +21,7 @@
     <modules>
         <module>array-list-conversion</module>
         <module>stream-filter</module>
+        <module>JavaOOPSConcepts</module>
     </modules>
 
     <dependencies>

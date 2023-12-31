@@ -23,3 +23,6 @@
 hs_err_pid*
 replay_pid*
 /.idea/
+/Core-Java-Master.iml
+/JavaOOPSConcepts/JavaOOPSConcepts.iml
+/JavaOOPSConcepts/target/
