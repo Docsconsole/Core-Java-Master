@@ -1,9 +1,9 @@
-# DocsConsole – Core Java examples
+# DocsConsole - Access Modifiers
 
 Project Link - 
 
 
-## The article demonstrates about the access-modifiers in Java with examples.
+## The project demonstrates the access-modifiers in Java.
 
 ```
 Output
