@@ -40,3 +40,17 @@ replay_pid*
 /list-iteration/target/
 /threadLocal/target/
 /lambda-expressions/target/
+/data-types/target/
+/exceptions/target/
+/inheritance/target/
+/map-iteration/target/
+/method-overriding/target/
+/optonal-throw/target/
+/reentrant-lock/target/
+/streams/target/
+/variable-types/target/
+/volatile/target/
+/predicates/target/
+/synchronization/target/
+/optional-throw/target/
+/java8-interview/target/

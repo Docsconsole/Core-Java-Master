@@ -30,6 +30,19 @@
         <module>threadLocal</module>
         <module>list-iteration</module>
         <module>lambda-expressions</module>
+        <module>variable-types</module>
+        <module>data-types</module>
+        <module>streams</module>
+        <module>volatile</module>
+        <module>predicates</module>
+        <module>exceptions</module>
+        <module>method-overriding</module>
+        <module>inheritance</module>
+        <module>map-iteration</module>
+        <module>optional-throw</module>
+        <module>reentrant-lock</module>
+        <module>synchronization</module>
+        <module>java8-interview</module>
     </modules>
 
     <dependencies>
